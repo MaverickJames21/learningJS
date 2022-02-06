@@ -5,7 +5,7 @@
 // let i = 1;
 
 // while ( i < 5 ) {
-//     console.log('ligne : ' + i);
+//     // console.log('ligne : ' + i);
 //     i++; 
 // }
 // -------
@@ -68,6 +68,24 @@
 // finally{
 //      alert('fin du programme');
 // }
+
+
+// ------
+
+// boucle FOR
+
+// let i = 1;
+
+// while ( i < 5 ) {
+//     console.log('ligne : ' + i);
+//     i++; 
+// }
+// PAR EX POUR RECREE LA BOUCLE WHILE PLUS SIMPLEMENT
+
+for (let i = 0; i < 5; i++) {
+    console.log ('ligne: ' +i);
+    
+}
 
 
 

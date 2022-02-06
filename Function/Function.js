@@ -203,26 +203,26 @@
 
 // CONVERTIRE LES DONNEE CHAINE DE CARACTERE EN NUMBER
  
-// function prevoirAge(){
+function prevoirAge(){
 
-//     let age = prompt('entrer votre age:') // STOCK LA RESPONSE EN CHAINE DE CARACTERE
-//     age = parseInt(age); //CONVERTIT UNE CHAINE DE CARACTERE EN NOMBER
-//     //PLUS RECOMMENDER
-//     age = Number(age);
-//     age = parseFloat(age);
+    let age = prompt('entrer votre age:') // STOCK LA RESPONSE EN CHAINE DE CARACTERE
+    age = parseInt(age); //CONVERTIT UNE CHAINE DE CARACTERE EN NOMBER
+    //PLUS RECOMMENDER
+    age = Number(age);
+    age = parseFloat(age);
 
-//     TRANSFORMER UN NOMBRE EN CHAINE DE CARACTERE 
-//     nombre = 45;
-//     nombreEnString = nombre + ""; LAISSER LES GUILLEMETS VIDES METHODE BARBAR
-//     FUNCTION IMPLEMANTER DANS JS
-//     nombreEnString = nombre.toString();
+    TRANSFORMER UN NOMBRE EN CHAINE DE CARACTERE 
+    nombre = 45;
+    nombreEnString = nombre + ""; LAISSER LES GUILLEMETS VIDES METHODE BARBAR
+    FUNCTION IMPLEMANTER DANS JS
+    nombreEnString = nombre.toString();
 
-//     alert('bientot vous aurez' + (age + 1 ) + ' ans') // DONC IL CONCATENE 30 ET 1 =301
+    alert('bientot vous aurez' + (age + 1 ) + ' ans') // DONC IL CONCATENE 30 ET 1 =301
     
 
-// }
+}
 
-// prevoirAge();
+prevoirAge();
 
 
 // -----
